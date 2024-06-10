@@ -201,6 +201,7 @@
 - <a name="todo"></a> ACIL: Analytic Class-Incremental Learning with Absolute Memorization and Privacy Protection (**NeurIPS2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b74a42fc81fc7ee252f6bcb6e26c8be-Paper-Conference.pdf)] 
 - <a name="todo"></a> Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2211.00789)]
 - <a name="todo"></a> Memory Efficient Continual Learning with Transformers (**NeurIPS2022**) [[paper](https://assets.amazon.science/44/6c/6d3f91ca4aa7a18149d30fa2c8a4/memory-efficient-continual-learning-with-transformers.pdf)]
+- (**Transformer**)视觉transformer里面加适配器+知识蒸馏，里面任务间相似性度量可参考
 - <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.04524)] [[code](https://github.com/zoilsen/clom)]
 - <a name="todo"></a> Disentangling Transfer in Continual Reinforcement Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2209.13900)]
 - <a name="todo"></a> Task-Free Continual Learning via Online Discrepancy Distance Learning (**NeurIPS2022**) [[paper](https://arxiv.org/abs/2210.06579)]
@@ -283,6 +284,7 @@
 - <a name="todo"></a> Forward Compatible Few-Shot Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
 - <a name="todo"></a> Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.06359)]
 - <a name="todo"></a> DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion (**CVPR2022**) [[paper](https://arxiv.org/abs/2111.11326)]
+- (**Transformer**)利用transformer获取关系的能力获取任务ID和图片的关系
 - <a name="todo"></a> Federated Class-Incremental Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.11473)] [[code](https://github.com/conditionWang/FCIL)]
 - <a name="todo"></a> Representation Compensation Networks for Continual Semantic Segmentation (**CVPR2022**) [[paper](https://arxiv.org/abs/2203.05402)]
 - <a name="todo"></a> A Multi-Head Model for Continual Learning via Out-of-Distribution Replay (**CoLLAs2022**) [[paper](https://arxiv.org/abs/2208.09734)] [[code](https://github.com/k-gyuhak/MORE)]

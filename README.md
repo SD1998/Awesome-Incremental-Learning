@@ -23,7 +23,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00228)][[code](https://github.com/liangyanshuo/InfLoRA)]
 - <a name="todo"></a> Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.19979)][[code](https://github.com/HAIV-Lab/SSIAT)]
 - <a name="todo"></a> Traceable Federated Continual Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Traceable_Federated_Continual_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/P0werWeirdo/TagFCL)]
 - <a name="todo"></a> Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Defense_without_Forgetting_Continual_Adversarial_Defense_with_Anisotropic__Isotropic_CVPR_2024_paper.pdf)]

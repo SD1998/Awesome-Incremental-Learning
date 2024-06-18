@@ -23,7 +23,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> Towards Backward-Compatible Continual Learning of Image Compression (**CVPR2024**)[[paper](https://arxiv.org/abs/2402.18862)][[code](https://gitlab.com/viper-purdue/continual-compression)]
 - <a name="todo"></a> Class Incremental Learning with Multi-Teacher Distillation (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_Class_Incremental_Learning_with_Multi-Teacher_Distillation_CVPR_2024_paper.pdf)][[code](https://github.com/HaitaoWen/CLearning)]
 - <a name="todo"></a> Towards Efficient Replay in Federated Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf)]
 - <a name="todo"></a> Dual-consistency Model Inversion for Non-exemplar Class Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qiu_Dual-Consistency_Model_Inversion_for_Non-Exemplar_Class_Incremental_Learning_CVPR_2024_paper.pdf)]

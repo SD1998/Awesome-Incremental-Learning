@@ -22,7 +22,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> BrainWash: A Poisoning Attack to Forget in Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2311.11995)]
 
 - <a name="todo"></a> Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=7D9X2cFnt1&name=pdf)][[code](https://github.com/simomagi/elastic_feature_consolidation)]
 - <a name="todo"></a> Function-space Parameterization of Neural Networks for Sequential Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=2dhxxIKhqz&name=pdf)]

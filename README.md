@@ -33,8 +33,6 @@
 - <a name="todo"></a> Progressive Fourier Neural Representation for Sequential Video Compilation (**ICLR2024**)[[paper](https://openreview.net/attachment?id=rGFrRMBbOq&name=pdf)]
 - <a name="todo"></a> Kalman Filter Online Classification from non-Stationary Data (**ICLR2024**)[[paper](https://openreview.net/attachment?id=ZzmKEpze8e&name=pdf)]
 - <a name="todo"></a> Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation (**ICLR2024**)[[paper](https://openreview.net/attachment?id=BllUWdpIOA&name=pdf)]
-- <a name="todo"></a> TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models (**ICLR2024**)[[paper](https://openreview.net/attachment?id=RRayv1ZPN3&name=pdf)]
--  (**关注**)连续学习+预训练模型+RL，可关注的点，实验设计讨论了内存和速度，讨论了模型可塑性
 - <a name="todo"></a> Class Incremental Learning via Likelihood Ratio Based Task Prediction (**ICLR2024**)[[paper](https://openreview.net/attachment?id=8QfK9Dq4q0&name=pdf)][[code](https://github.com/linhaowei1/TPL)]
 - <a name="todo"></a> The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting - An Analytical Model (**ICLR2024**)[[paper](https://openreview.net/attachment?id=u3dHl287oB&name=pdf)]
 - <a name="todo"></a> Prediction Error-based Classification for Class-Incremental Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=DJZDgMOLXQ&name=pdf)][[code](https://github.com/michalzajac-ml/pec)]

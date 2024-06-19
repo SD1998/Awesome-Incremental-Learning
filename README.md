@@ -22,7 +22,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> Long-Tail Class Incremental Learning via Independent Sub-prototype Construction (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Long-Tail_Class_Incremental_Learning_via_Independent_Sub-prototype_Construction_CVPR_2024_paper.pdf)]
 - <a name="todo"></a> FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_FCS_Feature_Calibration_and_Separation_for_Non-Exemplar_Class_Incremental_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/zhoujiahuan1991/CVPR2024-FCS)]
 - <a name="todo"></a> Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Incremental_Nuclei_Segmentation_from_Histopathological_Images_via_Future-class_Awareness_and_CVPR_2024_paper.pdf)][[code](https://github.com/why19991/InSeg)]
 - <a name="todo"></a> Gradient Reweighting: Towards Imbalanced Class-Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Gradient_Reweighting_Towards_Imbalanced_Class-Incremental_Learning_CVPR_2024_paper.pdf)][[code]( https://github.com/JiangpengHe/

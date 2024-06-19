@@ -22,7 +22,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Pan_Adaptive_VIO_Deep_Visual-Inertial_Odometry_with_Online_Continual_Learning_CVPR_2024_paper.pdf)]
 - <a name="todo"></a> ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.20126)][[code](https://github.com/clovaai/ECLIPSE)]
 - <a name="todo"></a> Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf)][[code](https://github.com/dtuzi123/DCM)]
 - <a name="todo"></a> Learning from One Continuous Video Stream (**CVPR2024**)[[paper](https://arxiv.org/abs/2312.00598)]

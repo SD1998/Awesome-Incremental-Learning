@@ -22,7 +22,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_SDDGR_Stable_Diffusion-based_Deep_Generative_Replay_for_Class_Incremental_Object_CVPR_2024_paper.pdf)]
 - <a name="todo"></a> Generative Multi-modal Models are Good Class Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.18383)][[code](https://github.com/DoubleClass/GMM)]
 - <a name="todo"></a> Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2212.08251)][[code](https://github.com/scok30/tass)]
 - <a name="todo"></a> DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_DYSON_Dynamic_Feature_Space_Self-Organization_for_Online_Task-Free_Class_Incremental_CVPR_2024_paper.pdf)][[code](https://github.com/isCDX2/DYSON)]

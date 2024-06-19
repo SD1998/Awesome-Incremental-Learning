@@ -23,7 +23,6 @@
 
 ### 2024
 - <a name="todo"></a> BrainWash: A Poisoning Attack to Forget in Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2311.11995)]
-- <a name="todo"></a> Convolutional Prompting meets Language Models for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/pdf/2403.20317)][[code](https://github.com/CVIR/ConvPrompt)]
 - <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.02117)][[code]([https://github.com/AnAppleCore/MOSE](https://github.com/KHU-AGI/PriViLege))]
 
 - <a name="todo"></a> Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=7D9X2cFnt1&name=pdf)][[code](https://github.com/simomagi/elastic_feature_consolidation)]

@@ -23,8 +23,6 @@
 
 ### 2024
 - <a name="todo"></a> Generative Multi-modal Models are Good Class Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.18383)][[code](https://github.com/DoubleClass/GMM)]
-- <a name="todo"></a> Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2212.08251)][[code](https://github.com/scok30/tass)]
-- <a name="todo"></a> DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_DYSON_Dynamic_Feature_Space_Self-Organization_for_Online_Task-Free_Class_Incremental_CVPR_2024_paper.pdf)][[code](https://github.com/isCDX2/DYSON)]
 - <a name="todo"></a> Enhancing Visual Continual Learning with Language-Guided Supervision (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.16124)]
 - <a name="todo"></a> Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.11549)][[code](https://github.com/JiazuoYu/MoE-Adapters4CL)]
 - <a name="todo"></a> Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Pan_Adaptive_VIO_Deep_Visual-Inertial_Odometry_with_Online_Continual_Learning_CVPR_2024_paper.pdf)]

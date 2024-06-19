@@ -22,9 +22,6 @@
 ## Papers
 
 ### 2024
-
-- <a name="todo"></a> Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=7D9X2cFnt1&name=pdf)][[code](https://github.com/simomagi/elastic_feature_consolidation)]
-- <a name="todo"></a> Function-space Parameterization of Neural Networks for Sequential Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=2dhxxIKhqz&name=pdf)]
 - <a name="todo"></a> Progressive Fourier Neural Representation for Sequential Video Compilation (**ICLR2024**)[[paper](https://openreview.net/attachment?id=rGFrRMBbOq&name=pdf)]
 - <a name="todo"></a> Kalman Filter Online Classification from non-Stationary Data (**ICLR2024**)[[paper](https://openreview.net/attachment?id=ZzmKEpze8e&name=pdf)]
 - <a name="todo"></a> Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation (**ICLR2024**)[[paper](https://openreview.net/attachment?id=BllUWdpIOA&name=pdf)]

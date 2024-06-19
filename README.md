@@ -22,7 +22,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> Dual-consistency Model Inversion for Non-exemplar Class Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qiu_Dual-Consistency_Model_Inversion_for_Non-Exemplar_Class_Incremental_Learning_CVPR_2024_paper.pdf)]
 - <a name="todo"></a> Dual-Enhanced Coreset Selection with Class-wise Collaboration for Online Blurry Class Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Dual-Enhanced_Coreset_Selection_with_Class-wise_Collaboration_for_Online_Blurry_Class_CVPR_2024_paper.pdf)]
 - <a name="todo"></a> Coherent Temporal Synthesis for Incremental Action Segmentation (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.06102)]
 - <a name="todo"></a> Text-Enhanced Data-free Approach for Federated Class-Incremental Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.14101)][[code](https://github.com/tmtuan1307/lander)]

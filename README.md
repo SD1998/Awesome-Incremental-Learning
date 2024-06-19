@@ -24,7 +24,6 @@
 ### 2024
 - <a name="todo"></a> BrainWash: A Poisoning Attack to Forget in Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2311.11995)]
 - <a name="todo"></a> Consistent Prompting for Rehearsal-Free Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.08568)][[code](https://github.com/Zhanxin-Gao/CPrompt)]
-- <a name="todo"></a> Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2405.19074)][[code](https://github.com/dipamgoswami/ADC)]
 - <a name="todo"></a> Convolutional Prompting meets Language Models for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/pdf/2403.20317)][[code](https://github.com/CVIR/ConvPrompt)]
 - <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.02117)][[code]([https://github.com/AnAppleCore/MOSE](https://github.com/KHU-AGI/PriViLege))]
 

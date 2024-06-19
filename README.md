@@ -24,7 +24,6 @@
 ### 2024
 - <a name="todo"></a> Gradient Reweighting: Towards Imbalanced Class-Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Gradient_Reweighting_Towards_Imbalanced_Class-Incremental_Learning_CVPR_2024_paper.pdf)][[code]( https://github.com/JiangpengHe/
 imbalanced_cil)]
-- <a name="todo"></a> OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ahmed_OrCo_Towards_Better_Generalization_via_Orthogonality_and_Contrast_for_Few-Shot_CVPR_2024_paper.pdf)][[code]( https://github.com/noorahmedds/OrCo)]
 - <a name="todo"></a> SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection (**CVPR2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_SDDGR_Stable_Diffusion-based_Deep_Generative_Replay_for_Class_Incremental_Object_CVPR_2024_paper.pdf)]
 - <a name="todo"></a> Generative Multi-modal Models are Good Class Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.18383)][[code](https://github.com/DoubleClass/GMM)]
 - <a name="todo"></a> Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2212.08251)][[code](https://github.com/scok30/tass)]

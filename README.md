@@ -22,13 +22,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> Progressive Fourier Neural Representation for Sequential Video Compilation (**ICLR2024**)[[paper](https://openreview.net/attachment?id=rGFrRMBbOq&name=pdf)]
-- <a name="todo"></a> Kalman Filter Online Classification from non-Stationary Data (**ICLR2024**)[[paper](https://openreview.net/attachment?id=ZzmKEpze8e&name=pdf)]
-- <a name="todo"></a> Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation (**ICLR2024**)[[paper](https://openreview.net/attachment?id=BllUWdpIOA&name=pdf)]
-- <a name="todo"></a> Class Incremental Learning via Likelihood Ratio Based Task Prediction (**ICLR2024**)[[paper](https://openreview.net/attachment?id=8QfK9Dq4q0&name=pdf)][[code](https://github.com/linhaowei1/TPL)]
-- <a name="todo"></a> The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting - An Analytical Model (**ICLR2024**)[[paper](https://openreview.net/attachment?id=u3dHl287oB&name=pdf)]
-- <a name="todo"></a> Prediction Error-based Classification for Class-Incremental Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=DJZDgMOLXQ&name=pdf)][[code](https://github.com/michalzajac-ml/pec)]
-- <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)[[paper](https://openreview.net/attachment?id=y886UXPEZ0&name=pdf)][[code](https://github.com/microsoft/LMOps/tree/main/adaptllm)]
 - <a name="todo"></a> Accurate Forgetting for Heterogeneous Federated Continual Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=ShQrnAsbPI&name=pdf)]
 - <a name="todo"></a> Fixed Non-negative Orthogonal Classifier: Inducing Zero-mean Neural Collapse with Feature Dimension Separation (**ICLR2024**)[[paper](https://openreview.net/attachment?id=F4bmOrmUwc&name=pdf)]
 - <a name="todo"></a> A Probabilistic Framework for Modular Continual Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=MVe2dnWPCu&name=pdf)]

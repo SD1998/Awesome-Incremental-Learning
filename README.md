@@ -22,7 +22,6 @@
 ## Papers
 
 ### 2024
-- <a name="todo"></a> Improving Plasticity in Online Continual Learning via Collaborative Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2312.00600)][[code](https://github.com/maorong-wang/CCL-DC)]
 - <a name="todo"></a> Learning Equi-angular Representations for Online Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.01628)][[code](https://github.com/yonseivnl/earlt)]
 - <a name="todo"></a> BrainWash: A Poisoning Attack to Forget in Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2311.11995)]
 - <a name="todo"></a> Consistent Prompting for Rehearsal-Free Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.08568)][[code](https://github.com/Zhanxin-Gao/CPrompt)]
